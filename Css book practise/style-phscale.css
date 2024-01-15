@@ -1,0 +1,77 @@
+body {
+  background-color: #c8c8c8;
+  background-color: hsl(0, 100%, 100%);
+}
+#h1 {
+  text-align: center;
+  border: 2px solid hsla(0, 0%, 70%, 0.601);
+  background-color: hsla(0, 0%, 80%, 0.605);
+  border-radius: 5px;
+  width: 95%;
+  margin-left: 40px;
+  justify-content: space-between;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(111, 111, 111);
+}
+
+li {
+  background-color: #ffffff;
+  background-color: hsla(0, 100%, 100%, 0.5);
+  list-style: none;
+  line-height: 30px;
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 30px;
+  display: flex;
+}
+#li14 {
+  background-color: rgba(6, 93, 255, 0.9);
+}
+#li13 {
+  background-color: rgba(6, 93, 255, 0.8);
+}
+#li12 {
+  background-color: rgba(6, 93, 255, 0.7);
+}
+#li11 {
+  background-color: rgba(6, 93, 255, 0.6);
+}
+#li10 {
+  background-color: rgba(6, 93, 255, 0.5);
+}
+#li9 {
+  background-color: rgba(6, 93, 255, 0.4);
+}
+#li8 {
+  background-color: rgba(6, 93, 255, 0.3);
+}
+#li7 {
+  background-color: hsl(100, 80%, 50%);
+}
+#li6 {
+  background-color: rgba(255, 0, 72, 0.27);
+}
+#li5 {
+  background-color: rgba(255, 0, 72, 0.3);
+}
+#li5 {
+  background-color: rgba(255, 0, 72, 0.4);
+}
+#li4 {
+  background-color: rgba(255, 0, 72, 0.5);
+}
+#li3 {
+  background-color: rgba(255, 0, 72, 0.6);
+}
+#li2 {
+  background-color: rgba(255, 0, 72, 0.7);
+}
+#li1 {
+  background-color: rgba(255, 0, 72, 0.8);
+}
+#li0 {
+  background-color: rgba(255, 0, 72, 0.9);
+}
